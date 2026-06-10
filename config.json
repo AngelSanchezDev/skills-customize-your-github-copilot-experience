@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-auth-sqlite",
+      "title": "FastAPI — JWT Authentication + SQLite",
+      "description": "Add JWT authentication and SQLite persistence to a FastAPI app.",
+      "path": "assignments/fastapi-auth-sqlite",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
